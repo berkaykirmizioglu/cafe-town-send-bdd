@@ -23,5 +23,3 @@ mvn clean install verify -Dtags='operations'
 
 **Test Results At:**
 cafe-town-send-bdd/target/site/serenity/index.html
-
-**Example Result Screenshot:**
